@@ -139,7 +139,3 @@ Through this project, I practiced:
 Aspiring bioinformatics professional exploring Python programming, genomics, and computational biology.
 
 
-
-
-
-This project is intended for educational purposes. Licensing terms can be specified by adding a `LICENSE` file to the repository.
